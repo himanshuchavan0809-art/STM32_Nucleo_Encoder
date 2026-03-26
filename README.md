@@ -4,6 +4,7 @@ The code reads encoder counts directly using hardware timers, providing efficien
 
 
 Features
+
 1.Uses hardware Timer Encoder Mode
 2.Supports quadrature encoders (A & B signals)
 3.Real-time position tracking
